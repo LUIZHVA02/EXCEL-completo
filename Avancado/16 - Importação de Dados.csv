@@ -1,0 +1,21 @@
+id;sigla;classificacao;legenda;imagem (URL resumida)
+1;L;Livre;Não tem conteúdos prejudiciais...;.../classi-indicativa-livre.png
+2;A10;10 anos;Conteúdo violento/linguagem imprópria leve;.../classi-indicativa10.png
+3;A12;12 anos;Agressão física leve/insinuação de drogas;.../classi-indicativa12.png
+4;A14;14 anos;Agressão média/drogas explícito;.../classi-indicativa14.png
+5;A16;16 anos;Agressão acentuada/drogas/sexo;.../classi-indicativa16.png
+6;A18;18 anos;Violência extrema/suicídio/sexo explícito;.../classi-indicativa18.png
+7;A20;20 anos;Não tem conteúdos prejudiciais...;.../classi-indicativa-livre.png
+8;A22;22 anos;Conteúdo violento/linguagem imprópria leve;.../classi-indicativa10.png
+9;A24;24 anos;Agressão física leve/insinuação de drogas;.../classi-indicativa12.png
+10;A26;26 anos;Agressão média/drogas explícito;.../classi-indicativa14.png
+1;L;Livre;Não tem conteúdos prejudiciais...;.../classi-indicativa-livre.png
+2;A10;10 anos;Conteúdo violento/linguagem imprópria leve;.../classi-indicativa10.png
+3;A12;12 anos;Agressão física leve/insinuação de drogas;.../classi-indicativa12.png
+4;A14;14 anos;Agressão média/drogas explícito;.../classi-indicativa14.png
+5;A16;16 anos;Agressão acentuada/drogas/sexo;.../classi-indicativa16.png
+6;A18;18 anos;Violência extrema/suicídio/sexo explícito;.../classi-indicativa18.png
+7;A20;20 anos;Não tem conteúdos prejudiciais...;.../classi-indicativa-livre.png
+8;A22;22 anos;Conteúdo violento/linguagem imprópria leve;.../classi-indicativa10.png
+9;A24;24 anos;Agressão física leve/insinuação de drogas;.../classi-indicativa12.png
+10;A26;26 anos;Agressão média/drogas explícito;.../classi-indicativa14.png
